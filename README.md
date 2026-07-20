@@ -1,16 +1,1 @@
 # C1-2
-- 화면 구성(구도/피사체/배경/텍스트 유무)
-    - 구도
-        - 앵글: 인물의 측후면에서 창문 밖 궂은 날씨와 인물의 망설임이 한번에 보일 수 있도록 클로즈업한다.
-        - 조명: 방의 불은 꺼져있고, 커튼 사이 창문 밖에서 이른 새벽의 미세한 빛과 번개로 인한 과도하게 밝은 빛이 섞여 들어온다.
-    - 피사체: 침대 옆 창문을 통해 비바람과 천둥, 번개가 치는 날씨를 바라보는 20대 청년
-    - 배경: 20대 청년의 방, 창문의 커튼은 절반쯤 쳐있고 이불은 방금 일어난 듯 흐트러져 있다.
-    - 텍스트 유무: X
-- 사용 도구와 사용 목적
-    - 이미지
-        - 
-    - 비디오
-        - 
-    - 오디오
-        - 한숨소리 = ElevenLabs(Eleven v3) 사용 - 입력 프롬프트: [좌절] 하아…
-        - 빗소리 =  ElevenLabs(효과음) 사용 - 입력 프롬프트: Heavy rain falling steadily at night with distant thunder and soft lightning rumbles.  The rain is continuous, deep and immersive, with natural water drops hitting surfaces evenly.  Thunder sounds are low, distant and smooth, never sharp or sudden, creating a calm and atmospheric storm.  No wind gusts, no music, no voices, no sudden loud peaks.  Perfect for deep sleep, relaxation and night ambience.  Dark, cinematic, realistic and soothing storm
